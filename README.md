@@ -64,14 +64,14 @@ When you run `python app.py`, the agent demonstrates its capabilities:
 
 ### 1. Reading a file & providing summary
 
-![img.png](img.png)
+![img.png](src/img.png)
 
 ### 2. Listing directory contents
 
-![img_1.png](img_1.png)
+![img_1.png](src/img_1.png)
 
 ### 3. Creating a new file
 
-![img_2.png](img_2.png)
+![img_2.png](src/img_2.png)
 
-![img_3.png](img_3.png)
+![img_3.png](src/img_3.png)
